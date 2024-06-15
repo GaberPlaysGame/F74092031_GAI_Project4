@@ -6,3 +6,5 @@ stanford_cars/
 trained_models/
 archive.zip
 ddpm1.py
+.docx
+.pdf
